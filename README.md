@@ -6,7 +6,8 @@
 
 <p align="center"><em>Smarter Transport. Connected Operations.</em></p>
 
-Official logos, icons, colours, typography and imagery for **Transynq**, the intelligent transport management platform.
+Official logos, icons, colours, typography and imagery for [**Transynq**](https://transynq.io/), transport management software, and
+[**Transynq TMS**](https://transynq.io/transport-management-system), the Transynq transport management system.
 Use them to refer to Transynq: in integrations, articles, partner pages and presentations. Read the
 [usage rules](#usage) and the [trademark notice](#trademark-notice) first.
 
